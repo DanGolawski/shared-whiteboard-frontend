@@ -1,0 +1,9 @@
+.container {
+   background-color: black;
+   display: flex;
+   flex-direction: row;
+}
+
+.whiteboard-container {
+   flex: 1;
+}
